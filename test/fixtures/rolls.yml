@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  duration: 1
+  user: one
+  opponent: MyString
+  training_session: one
+
+two:
+  duration: 1
+  user: two
+  opponent: MyString
+  training_session: two

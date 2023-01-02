@@ -1,0 +1,2 @@
+class TrainingSessionController < ApplicationController
+end
